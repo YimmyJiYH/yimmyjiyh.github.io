@@ -20,6 +20,11 @@ mobile()
   -moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+.share_reward {
+  margin: 10px auto;
+  width: 90%;
+  text-align: center;
+}
 :root {
   --body-bg-color: #eee;
   --content-bg-color: #fff;
@@ -1215,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a763b6;
+  background: #fff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1609,12 +1614,11 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body p a {
-  color: #0593d3;
+  color: #1e88e5;
   border-bottom: none;
 }
 .post-body p a:hover {
-  color: #0477ab;
-  text-decoration: underline;
+  color: #303f9f;
 }
 .posts-collapse {
   margin-left: 35px;
