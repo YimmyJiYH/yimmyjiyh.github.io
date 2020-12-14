@@ -43,7 +43,7 @@ mobile()
   --btn-default-border-color: #555;
   --btn-default-hover-bg: #333;
   --btn-default-hover-color: #fff;
-  --btn-default-hover-border-color: #333;
+  --btn-default-hover-border-color: #222;
 }
 html {
   line-height: 1.15; /* 1 */
@@ -770,15 +770,16 @@ pre .javascript .function {
   margin-bottom: 20px;
   padding: 1em;
   position: relative;
-  border: 1px solid #eee;
-  border-left-width: 5px;
+  background: #f9f9f9;
+  border: initial;
+  border-left: 3px solid #eee;
 }
 .post-body .note h2,
 .post-body .note h3,
 .post-body .note h4,
 .post-body .note h5,
 .post-body .note h6 {
-  margin-top: 0;
+  margin-top: 3px;
   border-bottom: initial;
   margin-bottom: 0;
   padding-top: 0;
@@ -801,7 +802,19 @@ pre .javascript .function {
 .post-body .note img:last-child {
   margin-bottom: 0;
 }
+.post-body .note:not(.no-icon) {
+  padding-left: 2.5em;
+}
+.post-body .note:not(.no-icon)::before {
+  font-size: 1.5em;
+  left: 0.4em;
+  position: absolute;
+  top: calc(50% - 1em);
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
 .post-body .note.default {
+  background: #f7f7f7;
   border-left-color: #777;
 }
 .post-body .note.default h2,
@@ -811,7 +824,12 @@ pre .javascript .function {
 .post-body .note.default h6 {
   color: #777;
 }
+.post-body .note.default:not(.no-icon)::before {
+  content: "\f0a9";
+  color: #777;
+}
 .post-body .note.primary {
+  background: #f5f0fa;
   border-left-color: #6f42c1;
 }
 .post-body .note.primary h2,
@@ -821,7 +839,12 @@ pre .javascript .function {
 .post-body .note.primary h6 {
   color: #6f42c1;
 }
+.post-body .note.primary:not(.no-icon)::before {
+  content: "\f055";
+  color: #6f42c1;
+}
 .post-body .note.info {
+  background: #eef7fa;
   border-left-color: #428bca;
 }
 .post-body .note.info h2,
@@ -831,7 +854,12 @@ pre .javascript .function {
 .post-body .note.info h6 {
   color: #428bca;
 }
+.post-body .note.info:not(.no-icon)::before {
+  content: "\f05a";
+  color: #428bca;
+}
 .post-body .note.success {
+  background: #eff8f0;
   border-left-color: #5cb85c;
 }
 .post-body .note.success h2,
@@ -841,7 +869,12 @@ pre .javascript .function {
 .post-body .note.success h6 {
   color: #5cb85c;
 }
+.post-body .note.success:not(.no-icon)::before {
+  content: "\f058";
+  color: #5cb85c;
+}
 .post-body .note.warning {
+  background: #fdf8ea;
   border-left-color: #f0ad4e;
 }
 .post-body .note.warning h2,
@@ -851,7 +884,12 @@ pre .javascript .function {
 .post-body .note.warning h6 {
   color: #f0ad4e;
 }
+.post-body .note.warning:not(.no-icon)::before {
+  content: "\f06a";
+  color: #f0ad4e;
+}
 .post-body .note.danger {
+  background: #fcf1f2;
   border-left-color: #d9534f;
 }
 .post-body .note.danger h2,
@@ -859,6 +897,10 @@ pre .javascript .function {
 .post-body .note.danger h4,
 .post-body .note.danger h5,
 .post-body .note.danger h6 {
+  color: #d9534f;
+}
+.post-body .note.danger:not(.no-icon)::before {
+  content: "\f056";
   color: #d9534f;
 }
 .pagination .prev,
@@ -897,7 +939,7 @@ pre .javascript .function {
 .pagination .prev:hover,
 .pagination .next:hover,
 .pagination .page-number:hover {
-  border-top-color: #333;
+  border-top-color: #222;
 }
 .pagination .space {
   margin: 0;
@@ -929,7 +971,7 @@ pre .javascript .function {
   .pagination .prev:hover,
   .pagination .next:hover,
   .pagination .page-number:hover {
-    border-bottom-color: #333;
+    border-bottom-color: #222;
   }
 }
 .comments {
@@ -1220,7 +1262,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fff;
+  background: #cbc93e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1325,7 +1367,7 @@ pre .javascript .function {
   display: block;
 }
 .sidebar-toggle {
-  background: #333;
+  background: #222;
   bottom: 45px;
   cursor: pointer;
   height: 14px;
@@ -1703,7 +1745,7 @@ pre .javascript .function {
   border-bottom-color: #666;
 }
 .posts-collapse .post-header:hover::before {
-  background: #333;
+  background: #222;
 }
 .posts-collapse .post-meta {
   display: inline;
@@ -2103,11 +2145,11 @@ pre .javascript .function {
   padding: 0;
 }
 .event-list hr {
-  background: #333;
+  background: #222;
   margin: 20px 0 45px 0;
 }
 .event-list hr::after {
-  background: #333;
+  background: #222;
   color: #fff;
   content: 'NOW';
   display: inline-block;
@@ -2116,7 +2158,7 @@ pre .javascript .function {
   text-align: right;
 }
 .event-list .event {
-  background: #333;
+  background: #222;
   margin: 20px 0;
   min-height: 40px;
   padding: 15px 0 15px 10px;
@@ -2301,7 +2343,7 @@ ul.breadcrumb li + li:last-child {
   cursor: pointer;
 }
 .search-popup .popup-btn-close:hover .fa {
-  color: #333;
+  color: #222;
 }
 .search-popup .search-header {
   background: #eee;
