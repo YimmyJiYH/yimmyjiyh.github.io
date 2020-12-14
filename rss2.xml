@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小纪的笔记本</title>
+    <link>http://yimmyjiyh.com/</link>
+    
+    <atom:link href="http://yimmyjiyh.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>我没读管科啊</description>
+    <pubDate>Mon, 14 Dec 2020 06:16:17 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Markdown-基础篇</title>
+      <link>http://yimmyjiyh.com/posts/15e6e220.html</link>
+      <guid>http://yimmyjiyh.com/posts/15e6e220.html</guid>
+      <pubDate>Mon, 14 Dec 2020 02:54:02 GMT</pubDate>
+      
+      <description>&lt;p&gt;xxx&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>xxx</p><a id="more"></a> <h1 id="1-关于Markdown标题"><a class="header-anchor" href="#1-关于Markdown标题">¶</a>1 关于Markdown标题</h1><p>😕写法 - - -</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 一级标题</span></span><br><span class="line"><span class="comment">## 二级标题</span></span><br><span class="line"><span class="comment">### 三级标题</span></span><br><span class="line"><span class="comment">#### 四级标题</span></span><br><span class="line"><span class="comment">##### 五级标题</span></span><br></pre></td></tr></table></figure><p>😯效果 - - -</p><blockquote><h1 id="一级标题"><a class="header-anchor" href="#一级标题">¶</a>一级标题</h1><h2 id="二级标题"><a class="header-anchor" href="#二级标题">¶</a>二级标题</h2><h3 id="三级标题"><a class="header-anchor" href="#三级标题">¶</a>三级标题</h3><h4 id="四级标题"><a class="header-anchor" href="#四级标题">¶</a>四级标题</h4><h5 id="五级标题"><a class="header-anchor" href="#五级标题">¶</a>五级标题</h5></blockquote><h1 id="2-关于Markdown段落样式"><a class="header-anchor" href="#2-关于Markdown段落样式">¶</a>2 关于Markdown段落样式</h1><p>😕写法 - - -</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">*斜体文字*</span><br><span class="line">**粗体文字**</span><br><span class="line">***粗斜体文字***</span><br><span class="line">~~删除线~~</span><br><span class="line">&lt;u&gt;下划线&lt;&#x2F;u&gt;</span><br><span class="line">[^脚注的用法]</span><br></pre></td></tr></table></figure><p>😯效果 - - -</p><blockquote><p><em>斜体文字</em><br><strong>粗体文字</strong><br>大发发发<br><em><strong>粗斜体文字</strong></em><br><s>删除线</s><br><u>下划线</u><br>[^脚注的用法]</p></blockquote><p><a href="https://www.tablesgenerator.com/markdown_tables">https://www.tablesgenerator.com/markdown_tables</a></p>]]></content:encoded>
+      
+      
+      <category domain="http://yimmyjiyh.com/categories/Markdown/">Markdown</category>
+      
+      <category domain="http://yimmyjiyh.com/categories/Markdown/%E5%9F%BA%E7%A1%80/">基础</category>
+      
+      
+      <category domain="http://yimmyjiyh.com/tags/Markdown/">Markdown</category>
+      
+      
+      <comments>http://yimmyjiyh.com/posts/15e6e220.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://yimmyjiyh.com/posts/4a17b156.html</link>
+      <guid>http://yimmyjiyh.com/posts/4a17b156.html</guid>
+      <pubDate>Mon, 14 Dec 2020 02:45:38 GMT</pubDate>
+      
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p> <a id="more"></a>  <p><img src="/images/rabbit.jpg" alt="兔子"></p><h1 id="一级标题"><a class="header-anchor" href="#一级标题">¶</a>一级标题</h1><h2 id="二级标题"><a class="header-anchor" href="#二级标题">¶</a>二级标题</h2><h3 id="三级标题"><a class="header-anchor" href="#三级标题">¶</a>三级标题</h3><h4 id="四级标题"><a class="header-anchor" href="#四级标题">¶</a>四级标题</h4><p><em>倾斜</em><br><strong>加粗</strong><br><em><strong>加粗和倾斜</strong></em></p><hr><p><s>删除线</s></p><p><u>带下划线文本</u></p><p>创建脚注格式类似这样 [^RUNOOB]。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">newbatchrequest</span>(<span class="params">filename</span>):</span></span><br><span class="line">    <span class="keyword">with</span> setupbatchenv().start() <span class="keyword">as</span> env, gp.read(filename, env=env) <span class="keyword">as</span> model:</span><br><span class="line">        <span class="comment"># Set some parameters</span></span><br><span class="line">        model.Params.MIPGap = <span class="number">0.01</span></span><br><span class="line">        model.Params.JSONSolDetail = <span class="number">1</span></span><br><span class="line">        <span class="keyword">for</span> count, v <span class="keyword">in</span> <span class="built_in">enumerate</span>(model.getVars()):</span><br><span class="line">            v.VTag = <span class="string">&quot;Variable&#123;&#125;&quot;</span>.<span class="built_in">format</span>(count)</span><br><span class="line">            <span class="keyword">if</span> count &gt;= <span class="number">10</span>:</span><br><span class="line">                <span class="keyword">break</span></span><br><span class="line">        batchID = model.optimizeBatch()</span><br><span class="line">    <span class="keyword">return</span> batchID</span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://yimmyjiyh.com/posts/4a17b156.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
