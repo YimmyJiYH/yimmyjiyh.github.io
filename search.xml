@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Markdown-进阶篇</title>
+      <link href="posts/376e49f3.html"/>
+      <url>posts/376e49f3.html</url>
+      
+        <content type="html"><![CDATA[<p>📘 摘要：Markdown文本中可能需要用到的其他的比较好看的操作。</p><a id="more"></a> <hr><h1 id="1-一些奇特的操作"><a class="header-anchor" href="#1-一些奇特的操作">¶</a>1 一些奇特的操作</h1><h2 id="1-1-提示块-Note"><a class="header-anchor" href="#1-1-提示块-Note">¶</a>1.1 提示块 - Note</h2><p>😕写法 - - -</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">&#123;% note default %&#125;</span><br><span class="line">default 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note primary %&#125;</span><br><span class="line">primary 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note success %&#125;</span><br><span class="line">success 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note info %&#125;</span><br><span class="line">info 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note warning %&#125;</span><br><span class="line">warning 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% note danger %&#125;</span><br><span class="line">danger 提示块标签</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure><p>😯效果 - - -</p><div class="note default">            <p>default 提示块标签</p>          </div><div class="note primary">            <p>primary 提示块标签</p>          </div><div class="note success">            <p>success 提示块标签</p>          </div><div class="note info">            <p>info 提示块标签</p>          </div><div class="note warning">            <p>warning 提示块标签</p>          </div><div class="note danger">            <p>danger 提示块标签</p>          </div><h2 id="1-2-选项卡-Tabs"><a class="header-anchor" href="#1-2-选项卡-Tabs">¶</a>1.2 选项卡 - Tabs</h2><p>😕写法 - - -</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs tab,1 %&#125; 名字为tab，默认在第1个选项卡，如果是-1则隐藏</span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">这是选项卡1 </span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&lt;!-- tab --&gt;</span><br><span class="line">这是选项卡2</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&lt;!-- tab A --&gt;</span><br><span class="line">这是选项卡A，更改默认名字为A</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure><p>😯效果 - - -</p><div class="tabs" id="tab"><ul class="nav-tabs"><li class="tab active"><a href="#tab-1">tab 1</a></li><li class="tab"><a href="#tab-2">tab 2</a></li><li class="tab"><a href="#tab-3">A</a></li></ul><div class="tab-content"><div class="tab-pane active" id="tab-1"><p>这是选项卡1</p></div><div class="tab-pane" id="tab-2"><p>这是选项卡2</p></div><div class="tab-pane" id="tab-3"><p>这是选项卡A，更改默认名字为A</p></div></div></div><h2 id="1-3-标签-Label"><a class="header-anchor" href="#1-3-标签-Label">¶</a>1.3 标签 - Label</h2><p>😕写法 - - -</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;% label default@默认 %&#125;</span><br><span class="line">&#123;% label primary@主要 %&#125;</span><br><span class="line">&#123;% label success@成功 %&#125;</span><br><span class="line">&#123;% label info@信息 %&#125;</span><br><span class="line">&#123;% label warning@警告 %&#125;</span><br><span class="line">&#123;% label danger@危险 %&#125; </span><br></pre></td></tr></table></figure><p>😯效果 - - -</p><span class="label default">默认</span><span class="label primary">主要</span><span class="label success">成功</span><span class="label info">信息</span><span class="label warning">警告</span><span class="label danger">危险</span> ]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何科学猜拳</title>
       <link href="posts/32de6cd9.html"/>
       <url>posts/32de6cd9.html</url>
