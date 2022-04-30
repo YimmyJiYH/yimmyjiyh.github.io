@@ -170,6 +170,20 @@
   </url>
   
   <url>
+    <loc>https://yimmyjiyh.gitee.io/tags/%E6%8A%A5%E7%AB%A5%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimmyjiyh.gitee.io/tags/%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2022-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yimmyjiyh.gitee.io/tags/%E5%91%98%E5%B7%A5%E6%B5%81%E5%A4%B1%E7%8E%87/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -185,20 +199,6 @@
   
   <url>
     <loc>https://yimmyjiyh.gitee.io/tags/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/</loc>
-    <lastmod>2022-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.gitee.io/tags/%E6%8A%A5%E7%AB%A5%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2022-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.gitee.io/tags/%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -228,14 +228,14 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.gitee.io/categories/Literature-Sharing/</loc>
+    <loc>https://yimmyjiyh.gitee.io/categories/Dynamic-Programming/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.gitee.io/categories/Dynamic-Programming/</loc>
+    <loc>https://yimmyjiyh.gitee.io/categories/Literature-Sharing/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
