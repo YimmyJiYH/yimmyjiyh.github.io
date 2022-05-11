@@ -4,20 +4,7 @@
   
     
     <entry>
-      <title>排队论</title>
-      <link href="posts/181c81b6.html"/>
-      <url>posts/181c81b6.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>论文分享【mnsc.2018.3212】</title>
+      <title>论文分享【mnsc.2018.3212】 Line-Sitting</title>
       <link href="posts/d4cc051.html"/>
       <url>posts/d4cc051.html</url>
       
@@ -33,11 +20,11 @@
       
         <tags>
             
-            <tag> 文献阅读 </tag>
-            
             <tag> 排队经济学 </tag>
             
             <tag> Modeling </tag>
+            
+            <tag> 文献阅读 </tag>
             
         </tags>
       
@@ -57,10 +44,14 @@
           
           <category> Dynamic Programming </category>
           
+          <category> Inventory management </category>
+          
       </categories>
       
       
         <tags>
+            
+            <tag> 动态规划 </tag>
             
             <tag> 报童问题 </tag>
             
@@ -73,7 +64,7 @@
     
     
     <entry>
-      <title>论文分享【mnsc.2019.3401】</title>
+      <title>论文分享【mnsc.2019.3401】 Agent Attrition</title>
       <link href="posts/4c013e00.html"/>
       <url>posts/4c013e00.html</url>
       
@@ -89,13 +80,13 @@
       
         <tags>
             
-            <tag> 员工流失率 </tag>
-            
             <tag> 动态规划 </tag>
             
-            <tag> 逻辑回归 </tag>
-            
             <tag> 文献阅读 </tag>
+            
+            <tag> 员工流失率 </tag>
+            
+            <tag> 逻辑回归 </tag>
             
         </tags>
       
