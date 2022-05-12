@@ -181,6 +181,13 @@
   </url>
   
   <url>
+    <loc>https://yimmyjiyh.gitee.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yimmyjiyh.gitee.io/tags/%E5%91%98%E5%B7%A5%E6%B5%81%E5%A4%B1%E7%8E%87/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -203,13 +210,6 @@
   
   <url>
     <loc>https://yimmyjiyh.gitee.io/tags/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2022-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.gitee.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -267,14 +267,14 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.gitee.io/categories/Literature-Sharing/</loc>
+    <loc>https://yimmyjiyh.gitee.io/categories/Machine-Learning/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.gitee.io/categories/Machine-Learning/</loc>
+    <loc>https://yimmyjiyh.gitee.io/categories/Literature-Sharing/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
