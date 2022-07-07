@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>论文分享【mnsc.2020.3748】 Loot Box</title>
+      <link href="posts/e4957e61.html"/>
+      <url>posts/e4957e61.html</url>
+      
+        <content type="html"><![CDATA[<p><span class="github-emoji"><span>📘</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> 摘要：文章的研究背景是游戏中开箱的氪金模式。主要对比了两种开箱的方式，分别是传统箱（会开出重复商品），以及独特箱（只会开出独特商品）。比较了这几种策略的消费者福利，商家利润，箱子的销量，得到了很多有趣的结论。</p><a id="more"></a> <hr><h1 id="1-Loot-Box-Pricing-and-Design"><a href="#1-Loot-Box-Pricing-and-Design" class="headerlink" title="1 Loot Box Pricing and Design"></a>1 Loot Box Pricing and Design</h1><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%871.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%872.JPG"></p><h1 id="2-Model"><a href="#2-Model" class="headerlink" title="2 Model"></a>2 Model</h1><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%873.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%874.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%875.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%876.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%877.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%878.JPG"></p><h1 id="3-Asymptotic-Analysis"><a href="#3-Asymptotic-Analysis" class="headerlink" title="3 Asymptotic Analysis"></a>3 Asymptotic Analysis</h1><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%879.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8710.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8711.JPG"></p><h1 id="4-Loot-Box-Design"><a href="#4-Loot-Box-Design" class="headerlink" title="4 Loot Box Design"></a>4 Loot Box Design</h1><h2 id="4-1-Multi-item-Loot-Boxes"><a href="#4-1-Multi-item-Loot-Boxes" class="headerlink" title="4.1 Multi-item Loot Boxes"></a>4.1 Multi-item Loot Boxes</h2><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8712.JPG"></p><h2 id="4-2-Multi-class-Loot-Boxes"><a href="#4-2-Multi-class-Loot-Boxes" class="headerlink" title="4.2 Multi-class Loot Boxes"></a>4.2 Multi-class Loot Boxes</h2><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8713.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8714.JPG"></p><h2 id="4-3-Transparency-of-the-Allocation-Probabilities"><a href="#4-3-Transparency-of-the-Allocation-Probabilities" class="headerlink" title="4.3 Transparency of the Allocation Probabilities"></a>4.3 Transparency of the Allocation Probabilities</h2><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8715.JPG"></p><h2 id="4-4-Salvage-System"><a href="#4-4-Salvage-System" class="headerlink" title="4.4 Salvage System"></a>4.4 Salvage System</h2><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8716.JPG"><br><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8717.JPG"></p><h1 id="5-Numerical-Experiments"><a href="#5-Numerical-Experiments" class="headerlink" title="5 Numerical Experiments"></a>5 Numerical Experiments</h1><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8718.JPG"></p><h1 id="Thanks"><a href="#Thanks" class="headerlink" title="Thanks"></a>Thanks</h1><p><img src="/images/11-%E6%B0%AA%E9%87%91/%E5%B9%BB%E7%81%AF%E7%89%8719.JPG"></p><h1 id="参考材料"><a href="#参考材料" class="headerlink" title="参考材料"></a>参考材料</h1><p><a href="https://mp.weixin.qq.com/s/541sQxs8dWFA-DdfWtZ-rg">[1] 人物｜港大助理教授雷骁，研究开盲盒发运筹学顶刊的游戏爱好者</a><br><a href="https://mp.weixin.qq.com/s/dDykUDtsLn7RccIOufQr6Q">[2] 优化 | 我在哥大研究网游开箱氪金建模</a>  </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Literature Sharing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文献阅读 </tag>
+            
+            <tag> Modeling </tag>
+            
+            <tag> 氪金开箱 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>排队（服务）系统的最优控制</title>
       <link href="posts/181c81b6.html"/>
       <url>posts/181c81b6.html</url>
@@ -244,11 +273,11 @@
       
         <tags>
             
+            <tag> 虚拟遗憾最小化 </tag>
+            
             <tag> 非完美信息博弈 </tag>
             
             <tag> 博弈论 </tag>
-            
-            <tag> 虚拟遗憾最小化 </tag>
             
         </tags>
       
