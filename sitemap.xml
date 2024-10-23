@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yimmyjiyh.gitee.io/posts/376e49f3.html</loc>
+    
+    <lastmod>2024-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimmyjiyh.gitee.io/posts/15e6e220.html</loc>
+    
+    <lastmod>2024-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yimmyjiyh.gitee.io/Aboutme/index.html</loc>
     
-    <lastmod>2024-10-17</lastmod>
+    <lastmod>2024-10-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,6 +83,13 @@
 
   
   <url>
+    <loc>https://yimmyjiyh.gitee.io/tags/Markdown/</loc>
+    <lastmod>2024-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yimmyjiyh.gitee.io/tags/Newsvendor/</loc>
     <lastmod>2024-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,6 +104,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://yimmyjiyh.gitee.io/categories/Markdown/</loc>
+    <lastmod>2024-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://yimmyjiyh.gitee.io/categories/Dynamic-Programming/</loc>
