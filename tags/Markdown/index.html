@@ -406,7 +406,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="Reading time total">29 mins.</span>
+    <span title="Reading time total">27 mins.</span>
 </div>
 
 
@@ -560,6 +560,35 @@ if (document.querySelectorAll('pre.mermaid').length) {
     
 
   
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.16/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : true,
+      notify     : true,
+      appId      : 'Bs6CQC7AKLrcAiyAAxx5Fuiz-gzGzoHsz',
+      appKey     : 'bHsdxjWzH7vaDT8bb6vxCXpJ',
+      placeholder: "free to leave your questions ~~",
+      avatar     : 'robohash',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : true,
+      lang       : 'en' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
 
 <script>
             window.imageLazyLoadSetting = {
