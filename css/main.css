@@ -29,9 +29,9 @@ mobile()
   --body-bg-color: #eee;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: #222;
   --blockquote-color: #666;
-  --link-color: #555;
+  --link-color: #222;
   --link-hover-color: #333;
   --brand-color: #fff;
   --brand-hover-color: #fff;
@@ -39,8 +39,8 @@ mobile()
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --btn-default-bg: #fff;
-  --btn-default-color: #555;
-  --btn-default-border-color: #555;
+  --btn-default-color: #222;
+  --btn-default-border-color: #222;
   --btn-default-hover-bg: #333;
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
@@ -204,8 +204,8 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: 'Times New Roman', "Noto Serif SC", sans-serif;
-  font-size: 1.1em;
+  font-family: 'Trebuchet MS', "Noto Serif SC", sans-serif;
+  font-size: 1em;
   line-height: 2;
 }
 @media (max-width: 991px) {
@@ -220,28 +220,28 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Times New Roman', "Noto Serif SC", sans-serif;
+  font-family: 'Trebuchet MS', "Noto Serif SC", sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
 }
 h1 {
-  font-size: 1.075em;
+  font-size: 0.875em;
 }
 h2 {
-  font-size: 0.95em;
+  font-size: 0.75em;
 }
 h3 {
-  font-size: 0.825em;
+  font-size: 0.625em;
 }
 h4 {
-  font-size: 0.7em;
+  font-size: 0.5em;
 }
 h5 {
-  font-size: 0.575em;
+  font-size: 0.375em;
 }
 h6 {
-  font-size: 0.45em;
+  font-size: 0.25em;
 }
 p {
   margin: 0 0 20px 0;
@@ -298,7 +298,7 @@ kbd {
   border: 1px solid #ccc;
   border-radius: 0.2em;
   box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1);
-  color: #555;
+  color: #222;
   font-family: inherit;
   padding: 0.1em 0.3em;
   white-space: nowrap;
@@ -446,7 +446,7 @@ code {
 code {
   background: #eee;
   border-radius: 3px;
-  color: #555;
+  color: #222;
   padding: 2px 4px;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -630,7 +630,7 @@ pre .javascript .function {
   margin-bottom: 10px;
 }
 .post-body .label {
-  color: #555;
+  color: #222;
   display: inline;
   padding: 0 2px;
 }
@@ -1069,7 +1069,7 @@ pre .javascript .function {
   border-bottom: none;
   color: var(--brand-color);
   display: inline-block;
-  line-height: 1.2em;
+  line-height: 1.3em;
   padding: 0 40px;
   position: relative;
 }
@@ -1077,8 +1077,8 @@ pre .javascript .function {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: 'Times New Roman', "Noto Serif SC", sans-serif;
-  font-size: 1.2em;
+  font-family: 'Trebuchet MS', "Noto Serif SC", sans-serif;
+  font-size: 1.3em;
   font-weight: bold;
   margin: 0;
 }
@@ -1210,7 +1210,7 @@ pre .javascript .function {
   }
 }
 .book-mark-link::before {
-  color: #2c3e50;
+  color: black-deep;
   content: '\f02e';
   font-size: 32px;
   line-height: 1;
@@ -1276,7 +1276,7 @@ pre .javascript .function {
 }
 .links-of-author a,
 .links-of-author span.exturl {
-  border-bottom-color: #555;
+  border-bottom-color: #222;
   display: inline-block;
   font-size: 0.825em;
   margin-bottom: 10px;
@@ -1285,7 +1285,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #bf1459;
+  background: #ffa241;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1625,7 +1625,7 @@ pre .javascript .function {
   }
 }
 .post-body {
-  font-family: 'Times New Roman', "Noto Serif SC", sans-serif;
+  font-family: 'Trebuchet MS', "Noto Serif SC", sans-serif;
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
@@ -1938,7 +1938,7 @@ pre .javascript .function {
 }
 .posts-expand .post-meta {
   color: #999;
-  font-family: 'Times New Roman', "Noto Serif SC", sans-serif;
+  font-family: 'Trebuchet MS', "Noto Serif SC", sans-serif;
   font-size: 0.8em;
   margin: 3px 0 60px 0;
   text-align: center;
@@ -2574,6 +2574,7 @@ mjx-container + br {
 .menu .menu-item {
   display: block;
   margin: 0;
+  font-size: 1.075em;
 }
 .menu .menu-item a,
 .menu .menu-item span.exturl {
