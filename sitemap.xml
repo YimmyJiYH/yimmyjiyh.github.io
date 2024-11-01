@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yimmyjiyh.github.io/Aboutme/index.html</loc>
+    <loc>https://yuhang-ji.com/posts/15e6e220.html</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuhang-ji.com/Aboutme/index.html</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuhang-ji.com/posts/376e49f3.html</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuhang-ji.com/galleries/index.html</loc>
     
     <lastmod>2024-10-31</lastmod>
     
@@ -11,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/galleries/index.html</loc>
+    <loc>https://yuhang-ji.com/tags/index.html</loc>
     
     <lastmod>2024-10-31</lastmod>
     
@@ -20,34 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.github.io/posts/15e6e220.html</loc>
-    
-    <lastmod>2024-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.github.io/posts/376e49f3.html</loc>
-    
-    <lastmod>2024-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yimmyjiyh.github.io/posts/fe521a15.html</loc>
+    <loc>https://yuhang-ji.com/posts/fe521a15.html</loc>
     
     <lastmod>2024-10-17</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/categories/index.html</loc>
+    <loc>https://yuhang-ji.com/categories/index.html</loc>
     
     <lastmod>2024-10-17</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/lib/pace/README.html</loc>
+    <loc>https://yuhang-ji.com/lib/pace/README.html</loc>
     
     <lastmod>2020-12-14</lastmod>
     
@@ -75,30 +75,30 @@
   
 
   <url>
-    <loc>https://yimmyjiyh.github.io/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://yimmyjiyh.github.io/tags/Markdown/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/tags/Markdown/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/tags/Newsvendor/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/tags/Newsvendor/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/tags/Inventory-Theory/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/tags/Inventory-Theory/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -106,22 +106,22 @@
 
   
   <url>
-    <loc>https://yimmyjiyh.github.io/categories/Markdown/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/categories/Markdown/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/categories/Dynamic-Programming/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/categories/Dynamic-Programming/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yimmyjiyh.github.io/categories/Dynamic-Programming/Inventory-management/</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://yuhang-ji.com/categories/Dynamic-Programming/Inventory-management/</loc>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
